@@ -1,4 +1,4 @@
 #!/bin/sh
-sleep 25
+sleep 20
 swapoff /dev/block/zram0 
 swapon /data/swapfile
